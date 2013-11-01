@@ -1,0 +1,4 @@
+#ConsoleOutput : 
+#  description : 'Console Output RT-component with Long type DataInPort.'
+#  type : git
+#  url : 'https://github.com/sugarsweetrobotics/ConsoleOutput_cpp.git'
