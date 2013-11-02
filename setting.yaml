@@ -5,3 +5,4 @@ repositories:
   darwin108: [common, darwin108]
   darwin107: [common, darwin108]
   windows7_x64: [common, windows7_x64]
+  ubuntu1204_x64: [common, ubuntu1204_x64]
