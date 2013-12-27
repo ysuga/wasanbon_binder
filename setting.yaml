@@ -1,11 +1,3 @@
 author: Yuki Suga
 email: ysuga@sugarsweetrobotics.com
 url: http://sugarsweetrobotics.com
-repositories:
-  darwin109: [common, darwin]
-  darwin108: [common, darwin]
-  darwin107: [common, darwin]
-  windows7_x64: [common, windows_x64]
-  windows8_x64: [common, windows_x64]
-  ubuntu1204_x64: [common, ubuntu1204_x64]
-  ubuntu1204_x86: [common, ubuntu1204_x64]
