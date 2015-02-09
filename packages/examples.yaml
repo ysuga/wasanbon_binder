@@ -4,3 +4,8 @@
 #  url : 'https://github.com/sugarsweetrobotics/tutorial01.git'
 #  platform : 'win, osx, ubuntu'
 
+leap_vehicle:
+  description : 'Leap Motion and Kobuki'
+  type : git
+  url : 'https://github.com/ysuga/leap_vehicle.git'
+  platform : ['osx']
