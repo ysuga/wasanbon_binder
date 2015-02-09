@@ -3,3 +3,20 @@
 #  type : git
 #  url : 'https://github.com/sugarsweetrobotics/ConsoleOutput_cpp.git'
 #  platform : 'win, osx, ubuntu'
+
+KobukiSafetyFilter :
+  description : 'MobileRobot (Kobuki)s Safety Filter'
+  type : git
+  url : 'https://github.com/ysuga/KobukiSafetyFilter.git'
+  platform : ['osx']
+LeapVehicle : 
+  description : 'LeapMotion data to TimedVelocity2D'
+  type : git
+  url : 'https://github.com/ysuga/LeapVehicle.git'
+  platform : ['osx']
+
+VelocitySmoother : 
+  description : 'Mobile Robot Velocity Smoother'
+  type : git
+  url : 'https://github.com/ysuga/VelocitySmoother.git'
+  platform : ['osx']
